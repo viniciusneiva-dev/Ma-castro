@@ -1,0 +1,45 @@
+
+body {
+    background-color: #f2f7fc;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
+h1 {
+    color: #005b9f;
+    font-size: 32px;
+}
+
+h2 {
+    color: #0077b6;
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+img {
+    margin: 15px;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #008000;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #005500;
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid #b0d4eb;
+}
